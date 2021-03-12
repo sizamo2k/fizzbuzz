@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-size: 150px;
+}
+
+section {
+    margin-left: 40%;
+}
+
+.Clickhere {
+    background-color: green;
+    color: blue;
+} 
